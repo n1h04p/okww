@@ -1,3 +1,5 @@
+<p align="center"><strong>维护分支：</strong>这是 n1h04p 的个人维护版本，适配记录见 <a href="docs/MAINTAINING.md">docs/MAINTAINING.md</a>。</p>
+
 <div align="center">
   <h1 align="center">
     <img src="icons/icon.png" width="200" alt="ok-ww logo"/>
